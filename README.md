@@ -1,0 +1,1 @@
+These are notes recorded during the C++ learning process
